@@ -1,3 +1,0 @@
-C:/Build/lab rabot 12/CMakeFiles/test.dir
-C:/Build/lab rabot 12/CMakeFiles/ALL_BUILD.dir
-C:/Build/lab rabot 12/CMakeFiles/ZERO_CHECK.dir
